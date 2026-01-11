@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0231-power-of-two) |
 | [0728-self-dividing-numbers](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0728-self-dividing-numbers) |
 | [0883-projection-area-of-3d-shapes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0892-surface-area-of-3d-shapes) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0389-find-the-difference) |
 ## Queue
 |  |
@@ -232,4 +234,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
