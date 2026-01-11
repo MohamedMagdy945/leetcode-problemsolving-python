@@ -24,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -36,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0897-increasing-order-search-tree) |
 ## Math
 |  |
 | ------- |
@@ -52,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0905-sort-array-by-parity) |
+## Stack
+|  |
+| ------- |
+| [0897-increasing-order-search-tree](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
