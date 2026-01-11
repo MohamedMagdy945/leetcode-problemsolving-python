@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0733-flood-fill](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0733-flood-fill) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0897-increasing-order-search-tree) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0706-design-hashmap) |
 ## Heap (Priority Queue)
@@ -146,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0594-longest-harmonious-subsequence) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
