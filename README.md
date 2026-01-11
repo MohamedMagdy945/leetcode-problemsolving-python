@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0226-invert-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0226-invert-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0226-invert-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0703-kth-largest-element-in-a-stream) |
