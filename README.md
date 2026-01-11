@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0232-implement-queue-using-stacks) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0897-increasing-order-search-tree) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0232-implement-queue-using-stacks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0706-design-hashmap) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0387-first-unique-character-in-a-string) |
 ## Recursion
 |  |
