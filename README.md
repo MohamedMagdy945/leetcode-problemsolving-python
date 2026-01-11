@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0706-design-hashmap) |
 ## Design
@@ -212,4 +213,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
