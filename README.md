@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0387-first-unique-character-in-a-string) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0257-binary-tree-paths) |
 | [0563-binary-tree-tilt](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0257-binary-tree-paths) |
 | [0563-binary-tree-tilt](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0257-binary-tree-paths) |
 | [0563-binary-tree-tilt](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -245,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0234-palindrome-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
