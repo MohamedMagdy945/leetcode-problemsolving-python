@@ -12,18 +12,18 @@
 class Solution {
 public:
   
-void Traversal(TreeNode* node){
-    if(!node) return ;
-    Traversal(node->left);
-    Traversal(node->right);
-    
-    TreeNode* temp = node->right ;
-    node->right = node->left;
-    node->left = temp;
-}
-TreeNode* invertTree(TreeNode* root)
-{
-    Traversal(root);
-    return root;
-}
+    void Traversal(TreeNode* node){
+        if(!node) return ;
+        Traversal(node->left);
+        Traversal(node->right);
+        
+        TreeNode* temp = node->right ;
+        node->right = node->left;
+        node->left = temp;
+    }
+    TreeNode* invertTree(TreeNode* root)
+    {
+        Traversal(root);
+        return root;
+    }
 };
