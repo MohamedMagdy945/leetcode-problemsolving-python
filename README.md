@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0575-distribute-candies) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0389-find-the-difference) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0704-binary-search](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0704-binary-search) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -105,10 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0594-longest-harmonious-subsequence) |
