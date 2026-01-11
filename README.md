@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0594-longest-harmonious-subsequence) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0594-longest-harmonious-subsequence) |
 | [0888-fair-candy-swap](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0905-sort-array-by-parity) |
@@ -163,4 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0566-reshape-the-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
