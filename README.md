@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0367-valid-perfect-square) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0704-binary-search](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0704-binary-search) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0367-valid-perfect-square) |
 | [0728-self-dividing-numbers](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0728-self-dividing-numbers) |
 | [0883-projection-area-of-3d-shapes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0892-surface-area-of-3d-shapes) |
