@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0561-array-partition) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0383-ransom-note) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0268-missing-number) |
 | [0728-self-dividing-numbers](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0728-self-dividing-numbers) |
 | [0883-projection-area-of-3d-shapes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0892-surface-area-of-3d-shapes) |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0389-find-the-difference) |
@@ -238,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0389-find-the-difference) |
 ## Queue
 |  |
