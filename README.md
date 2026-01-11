@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0222-count-complete-tree-nodes) |
 | [0563-binary-tree-tilt](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0222-count-complete-tree-nodes) |
 | [0563-binary-tree-tilt](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0389-find-the-difference) |
 ## Queue
 |  |
