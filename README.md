@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0563-binary-tree-tilt](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0563-binary-tree-tilt](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0563-binary-tree-tilt](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0783-minimum-distance-between-bst-nodes) |
