@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0717-1-bit-and-2-bit-characters](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0724-find-pivot-index](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0766-toeplitz-matrix) |
 | [0819-most-common-word](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0819-most-common-word) |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0766-toeplitz-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0892-surface-area-of-3d-shapes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
