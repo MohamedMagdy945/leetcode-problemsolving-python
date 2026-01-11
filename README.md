@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -266,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0258-add-digits) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
