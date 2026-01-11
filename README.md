@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0704-binary-search](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0704-binary-search) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0888-fair-candy-swap](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0888-fair-candy-swap) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0897-increasing-order-search-tree) |
 ## Math
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0706-design-hashmap) |
 ## Hash Function
@@ -118,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0706-design-hashmap) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
