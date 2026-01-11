@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0575-distribute-candies) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0709-to-lower-case) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0819-most-common-word) |
