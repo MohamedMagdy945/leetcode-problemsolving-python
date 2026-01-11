@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0717-1-bit-and-2-bit-characters](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0819-most-common-word](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0819-most-common-word) |
+| [0908-smallest-range-i](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0908-smallest-range-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Math
+|  |
+| ------- |
+| [0908-smallest-range-i](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0908-smallest-range-i) |
 <!---LeetCode Topics End-->
