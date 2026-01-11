@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0594-longest-harmonious-subsequence) |
 | [0704-binary-search](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0704-binary-search) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0766-toeplitz-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0883-projection-area-of-3d-shapes) |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0572-subtree-of-another-tree) |
+## Simulation
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
