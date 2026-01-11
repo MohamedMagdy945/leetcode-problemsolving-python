@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0706-design-hashmap) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0704-binary-search) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0888-fair-candy-swap](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0888-fair-candy-swap) |
 | [0897-increasing-order-search-tree](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0897-increasing-order-search-tree) |
