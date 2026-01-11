@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0594-longest-harmonious-subsequence) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0771-jewels-and-stones) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -180,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0389-find-the-difference) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
