@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0383-ransom-note) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0202-happy-number) |
 | [0728-self-dividing-numbers](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0728-self-dividing-numbers) |
 | [0883-projection-area-of-3d-shapes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0892-surface-area-of-3d-shapes) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0350-intersection-of-two-arrays-ii) |
