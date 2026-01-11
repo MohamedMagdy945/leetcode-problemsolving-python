@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0389-find-the-difference) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0905-sort-array-by-parity) |
