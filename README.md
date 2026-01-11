@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0728-self-dividing-numbers) |
 | [0883-projection-area-of-3d-shapes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0892-surface-area-of-3d-shapes) |
