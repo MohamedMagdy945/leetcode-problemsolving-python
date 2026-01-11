@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0706-design-hashmap](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0706-design-hashmap) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0733-flood-fill) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0706-design-hashmap](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -97,4 +99,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0724-find-pivot-index) |
+## Linked List
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0706-design-hashmap) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
