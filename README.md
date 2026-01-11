@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0717-1-bit-and-2-bit-characters](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0819-most-common-word](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0819-most-common-word) |
+| [0896-monotonic-array](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/MohamedMagdy945/leetcode-problemsolving-python/tree/master/0908-smallest-range-i) |
 ## Hash Table
